@@ -1,4 +1,4 @@
-# Radiative_capture_of_proton_at_low_enenrgy
+# Radiative capture of proton at Low Enenrgy
 
 INTRODUCTION
 
